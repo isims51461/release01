@@ -1,3 +1,3 @@
 FROM httpd 
-COPY /~/devops_folder/ /var/www/html
+COPY ~/devops_folder/ /var/www/html
 
