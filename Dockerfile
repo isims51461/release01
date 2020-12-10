@@ -1,3 +1,3 @@
 FROM httpd 
-COPY .//var/www/html
+COPY /c/Users/Johnson-Sims/devops_folder//var/www/html
 
